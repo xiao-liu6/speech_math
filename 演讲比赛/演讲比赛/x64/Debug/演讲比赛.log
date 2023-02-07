@@ -1,0 +1,3 @@
+﻿  speechManager.cpp
+D:\myProjects\VS_cpp\演讲比赛\演讲比赛\speechManager.cpp(40,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  演讲比赛.vcxproj -> D:\myProjects\VS_cpp\演讲比赛\x64\Debug\演讲比赛.exe
